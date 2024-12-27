@@ -5,7 +5,7 @@ The weather prediction model (activity scheduling system) leverages both the Ope
 # Procedures to follow
 - signup for the Opwnweathermap Api at openweathermap.org and get the Api key and replace the key with yours
 
-- signup for the OpwnAi Api and get the Api key at openweathermap.org and get the Api key and replace the key with yours
+- signup for the OpenAi Api, get the Api key
 
 # Install the requirements
 ```
